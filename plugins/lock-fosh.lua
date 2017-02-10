@@ -90,6 +90,7 @@ return {
 	"خوارکصده",
 	"kharko3de",
 	"مادرجنده",
+  	"كله كيري";
 
 	--Commands ##Don't change this##
 	"^[!/#]([Ll][Oo][Cc][Kk]) (.*)$",
